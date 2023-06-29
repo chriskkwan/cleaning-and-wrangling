@@ -1,0 +1,14 @@
+---
+title: "Exercise: Explore, Clean, and Wrangle Data"
+author: "chris"
+format: html
+editor: visual
+---
+
+## about the data
+## setup
+## read and explore
+## exercise 1
+## excercise 2
+## excercise 3
+## excercise 4
